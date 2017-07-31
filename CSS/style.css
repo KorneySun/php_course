@@ -1,0 +1,131 @@
+* {
+    font-family: Tahoma;
+}
+a:hover{
+    color:#003300;
+}
+b{
+    color:#FF3399
+}
+.bar{
+    padding: 10px;
+    width: 200px;
+    border:7px dotted red
+}
+.bar-1 {
+    border: 3px solid black;
+    padding: 10px;
+    width: 200px;
+}
+.bar-2 {
+    border: 5px dashed #336600;
+    padding: 10px;
+    width: 200px;
+}
+.bar-3 {
+    border: 7px dotted red;
+    padding: 10px;
+    width: 200px;
+}
+.bar-4 {
+    border: 7px ridge #999999;
+    padding: 10px;
+    width: 200px;
+}
+.bold {
+    font-style: bold;
+}
+.italic {
+    font-style: italic;
+}
+.underlined {
+    text-decoration: underline;
+}
+.container  {
+                background:  white;
+                padding: 1px;
+                width: 1000px;
+                margin-left: auto;
+                margin-right: auto;
+                border: solid 2px
+            }
+.header      {  background: #BCBE97;
+                border: groove 2px;
+                text-align:left;
+                font-style: italic;
+                height: 50px;
+                padding: 10px;
+                margin: 20px;
+            }
+.navigation {   border: ridge 3px;
+                padding: 10px;
+                margin: 20px;
+            }
+.content    {   border: inset 4px;
+                padding: 20px;
+                margin: 20px;
+            }
+.footer      {  background: #F2F2F2;
+                border: outset 5px;
+                padding: 10px;
+                margin: 20px;
+                height: 40px;
+                text-align:center;
+             }
+<!--body        {-->
+    <!--            background: blue;-->
+    <!--    }-->
+.flower     {  background: #BCBE97;
+    border: groove 2px;
+    text-align:left;
+    font-style: italic;
+    height: 50px;
+    padding: 10px;
+    margin: 20px;
+}
+.form-row {
+    margin-bottom: 8px;
+   <!-- overflow: hidden;-->
+}
+.form-row input {
+    float: right;
+    height: 19px;
+    line-height: 19px;
+    margin: 0px;
+    padding: 0px 5px;
+    width: 287px;
+    border: 1px solid #ABADB3;
+}
+
+.reg-form {
+    width: 416px;
+    margin: 0 auto;
+}
+
+.form-row textarea {
+    height: 90px;
+    line-height: 16px;
+    font-size: 12px;
+    padding: 0px 5px;
+    width: 404px;
+    border: 1px solid #ABADB3;
+}
+
+.form-row input[type=submit] {
+    padding:5px;
+    height:25px;
+    width:100%;
+    line-height: 10px;
+    background: #337AB7;
+    color:white;
+}
+
+.form-row input[type=submit]:hover {
+    background:#286090;
+}
+
+* {
+    font-family:arial;
+    font-size:10pt;
+}
+
